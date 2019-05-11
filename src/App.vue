@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="https://alejandro-fajardo.github.io/platzimusic/assets/logo.png">
     <h1>Platzi Music</h1>
     <Spinner v-show="loading"></Spinner>
     <select v-model="country" >
